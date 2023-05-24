@@ -1,6 +1,7 @@
 {
     "drone": "drone",
-    "lâmpada": "lampada",
+    "lampada": "lampada",
     "geladeira": "geladeira",
-    "contabilidade": "contabilidade"
+    "contabilidade": "contabilidade",
+    "sistema proprio": "sistema proprio"
 }

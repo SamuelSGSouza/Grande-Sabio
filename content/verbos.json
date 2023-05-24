@@ -1,9 +1,42 @@
 {
+
+    "acesse": "acessar",
+    "acessar": "acessar",
+    "acessa": "acessar",
+
     "pesquisar": "pesquisar",
+    "pesquise": "pesquisar",
+    "pesquisa": "pesquisar",
+
     "limpar": "limpar",
+    "limpe": "limpar",
+
     "voltar": "voltar",
+    "volte": "voltar",
+
     "salvar": "salvar",
+    "salve": "salvar",
+
     "excluir": "excluir",
+    "exclua": "excluir",
+
     "editar": "editar",
-    "baixar": "baixar"
+    "edite": "editar",
+
+    "baixar": "baixar",
+    "baixe": "baixar",
+
+    "ligar": "ligar",
+    "ligue": "ligar",
+    
+
+    "desligar": "desligar",
+    "desligue": "desligar",
+    "desliga": "desligar",
+
+    "converta": "converter",
+    "converter": "converter",
+    "conversao": "converter"
+
+    
 }
