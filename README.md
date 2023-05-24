@@ -21,3 +21,10 @@ Após o Sujeito e a função serem definidas, "parâmetros" serão tudo que esti
 restante no comando inicial e que possa ser relevante para o funcionamento desejado 
 do comando.
 
+### Base
+O Diretório "base" inclui as funções e bibliotecas que podem ser consideradas pré-requisitos
+para uma determinada ação de um sujeito. Por exemplo:
+Para acessar uma página automaticamente eu irei precisar do WebDriverManager, então
+ao invés de criar um código separado para cada sujeito, irei inserir isso como base.
+Assim vários sujeitos que necessitam acessar uma pagina podem utilizar a mesma base.
+
